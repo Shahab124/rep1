@@ -1,1 +1,2 @@
-#MY FIRST REPOSItORY
+This line is from conflict-branch.
+
